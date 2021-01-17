@@ -31,6 +31,7 @@ Have no more than two dependents.
 
             if (age >= 17 && age <= 34) {
 
+                System.out.println("blabblabaablabla");
 
                 if (hasHighSchoolDiploma) {
                 } else {
