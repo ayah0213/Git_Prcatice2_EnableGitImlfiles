@@ -33,6 +33,7 @@ Have no more than two dependents.
 
 
                 if (hasHighSchoolDiploma) {
+                    System.out.println("blabalbalb");
                 } else {
                     System.out.println("Must have high school diplpoma");
                 }
